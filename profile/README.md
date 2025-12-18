@@ -38,9 +38,8 @@ Key research areas:
 
 ### 👥 Team  
 - [Abin Jacob](https://github.com/abinjakob)
-- [Till Habersetzer](https://github.com/tillhabersetzer)
-- Vaibhav Kumar
 - [Rakshitha V](https://github.com/Virupaksh0102)
+- [Vaibhav Kumar](https://github.com/vaibhav1509)
 - [Prof. Dr. Martin Bleichner](https://github.com/mgbleichner) – Scientific Advisor  
 
 ---
