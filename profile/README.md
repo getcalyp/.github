@@ -4,16 +4,16 @@
 ---
 
 ### 🌊 About Us  
-At **Calypso**, we are building a future where technology adapts seamlessly to its user. Our work sits at the intersection of **Brain-Computer Interfaces (BCI)**, **Augmented Reality (AR)**, **Wearable Computing** and **Human-Computer Interaction (HCI)** — enabling intuitive, context-aware systems that respond to mental states, attention, and intention.
+At **Calyp**, we are building a future where technology adapts seamlessly to its user. Our work sits at the intersection of **Brain-Computer Interfaces (BCI)**, **Augmented Reality (AR)**, **Wearable Computing** and **Human-Computer Interaction (HCI)** — enabling intuitive, context-aware systems that respond to mental states, attention, and intention.
 
 ---
 
 ### 🔬 Current Focus  
-Our first project, **Calypso Beam**, combines EEG-based BCI and AR to empower users to interact with digital environments using **brain and gaze activity** — designed especially for individuals with limited motor control.  
+Our first project, **Calyp Beam**, combines EEG-based BCI and AR to empower users to interact with digital environments using **brain and gaze activity** — designed especially for individuals with limited motor control.  
 
-![Calypso BEAM Concept](https://github.com/CalypsoBCI/img/blob/main/Group%202.png)
+![Calyp BEAM Concept](https://github.com/CalypBCI/img/blob/main/Group%202.png)
 
-**Calypso Beam AR glasses** allow users to control a **smartphone or laptop hands-free**. The interface of the device is projected into AR space, while our **Hybrid-BCI system** interprets neural and eye signals to enable seamless device control.  
+**Calyp Beam AR glasses** allow users to control a **smartphone or laptop hands-free**. The interface of the device is projected into AR space, while our **Hybrid-BCI system** interprets neural and eye signals to enable seamless device control.  
 
 Key features:
 - Hands-free control of smartphones and laptops  
@@ -24,7 +24,7 @@ Key features:
 ---
 
 ### 🧠 Research & Development  
-![Calypso BEAM Research](https://github.com/CalypsoBCI/img/blob/main/Frame%202.png)
+![Calyp BEAM Research](https://github.com/CalypBCI/img/blob/main/Frame%202.png)
 
 We collaborate with **the University of Oldenburg** and Translational Psychology Lab at UOL, uniting neuroscience, engineering, and design to push the boundaries of real-world BCI applications.
 
@@ -51,11 +51,11 @@ a world where devices understand **user contexts**, **intention**, and **emotion
 ---
 
 ### 💬 Connect with Us  
-- 🌐 [Website](https://calypsobci.com) *(coming soon)*  
-- 💼 [LinkedIn](https://linkedin.com/company/calypsobci)  
-- 📩 hello@calypsobci.com  
+- 🌐 [Website](https://Calypbci.com) *(coming soon)*  
+- 💼 [LinkedIn](https://linkedin.com/company/Calypbci)  
+- 📩 hello@Calypbci.com  
 
 ---
 
-**CalypsoBCI © 2025**  
+**CalypBCI © 2025**  
 
