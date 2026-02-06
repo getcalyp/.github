@@ -1,4 +1,4 @@
-# 🧠 CalypsoBCI  
+# Calyp
 **Building context-aware wearables**
 
 ---
