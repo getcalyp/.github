@@ -11,7 +11,7 @@ At **Calyp**, we are building a future where technology adapts seamlessly to its
 ### 🔬 Current Focus  
 Our first project, **Calyp Beam**, combines EEG-based BCI and AR to empower users to interact with digital environments using **brain and gaze activity** — designed especially for individuals with limited motor control.  
 
-![Calyp BEAM Concept](https://github.com/CalypBCI/img/blob/main/Group%202.png)
+![Calyp BEAM Concept](https://github.com/getcalyp/img/blob/main/Group%202.png)
 
 **Calyp Beam AR glasses** allow users to control a **smartphone or laptop hands-free**. The interface of the device is projected into AR space, while our **Hybrid-BCI system** interprets neural and eye signals to enable seamless device control.  
 
@@ -24,7 +24,7 @@ Key features:
 ---
 
 ### 🧠 Research & Development  
-![Calyp BEAM Research](https://github.com/CalypBCI/img/blob/main/Frame%202.png)
+![Calyp BEAM Research](https://github.com/getcalyp/img/blob/main/Frame%202.png)
 
 We collaborate with **the University of Oldenburg** and Translational Psychology Lab at UOL, uniting neuroscience, engineering, and design to push the boundaries of real-world BCI applications.
 
@@ -51,8 +51,8 @@ a world where devices understand **user contexts**, **intention**, and **emotion
 ---
 
 ### 💬 Connect with Us  
-- 🌐 [Website](https://Calypbci.com) *(coming soon)*  
-- 💼 [LinkedIn](https://linkedin.com/company/Calypbci)  
+- 🌐 [Website](https://calyp.co) *(coming soon)*  
+- 💼 [LinkedIn](https://linkedin.com/company/getcalyp)  
 - 📩 hello@Calypbci.com  
 
 ---
