@@ -36,7 +36,7 @@ Key research areas:
 
 ---
 
-### 👥 Team  
+### 👥 Core Team  
 - [Abin Jacob](https://github.com/abinjakob)
 - [Rakshitha V](https://github.com/Virupaksh0102)
 - [Vaibhav Kumar](https://github.com/vaibhav1509)
