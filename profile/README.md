@@ -53,9 +53,9 @@ a world where devices understand **user contexts**, **intention**, and **emotion
 ### 💬 Connect with Us  
 - 🌐 [Website](https://calyp.co) *(coming soon)*  
 - 💼 [LinkedIn](https://linkedin.com/company/getcalyp)  
-- 📩 hello@Calypbci.com  
+- 📩 hello@calyp.co
 
 ---
 
-**CalypBCI © 2025**  
+**Calyp © 2026**  
 
